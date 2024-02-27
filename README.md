@@ -30,3 +30,16 @@ Here's a breakdown of the steps involved in implementing a Support Vector Machin
 
 6. ***Results and Visualization***:
    - Display or save the results, such as accuracy, confusion matrix, or any other relevant visualizations.
+
+### Dataset
+The dataset used for this project is [Dogs VS. Cats](https://www.kaggle.com/datasets/salader/dogs-vs-cats).
+
+## Conclusion:
+- The SVM model, combined with features from a CNN, provides an effective approach for classifying cat and dog images.
+- The project demonstrates good generalization to unseen data and robust performance metrics.
+- The provided code and documentation facilitate easy usage and understanding for others interested in the project.
+
+## Future Improvements:
+- Consider experimenting with different pre-trained CNN architectures and SVM configurations for potential performance gains.
+- Explore additional data augmentation techniques or fine-tuning strategies.
+- Encourage community contributions for enhancements, bug fixes, and new features.
